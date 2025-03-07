@@ -1,0 +1,1 @@
+ /Users/fahrudinaz-zuhd/Fahru/Flutter/com.fahruazzuhd.newsapp_getx/.dart_tool/flutter_build/5d2150128345bac740fff6452e64506e/native_assets.yaml: 
